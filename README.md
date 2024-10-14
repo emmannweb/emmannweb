@@ -2,7 +2,7 @@
 
 **`Software developer / Wordpress developer / Content creator`**
 
-I'm an full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[emmannweb][youtube]" that has about 3000 subscribers.
+I'm an full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[@emmannweb][youtube]" that has about 3000 subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/c/emmannweb?sub_confirmation=1">
@@ -57,4 +57,4 @@ I'm an full-stack developer and content creator building my version of the digit
 #
 
 [website]: webtechbloginc.com
-[youtube]: https://youtube.com/emmannweb
+[youtube]: https://youtube.com/@emmannweb
