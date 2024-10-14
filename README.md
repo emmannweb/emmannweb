@@ -2,7 +2,7 @@
 
 **`Software developer / Wordpress developer / Content creator`**
 
-I'm an  full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[emmannweb][youtube]" that has about 3000 subscribers.
+I'm an full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[emmannweb][youtube]" that has about 3000 subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/c/emmannweb?sub_confirmation=1">
@@ -18,7 +18,6 @@ I'm an  full-stack developer and content creator building my version of the digi
 ---
 
 ### 🧰 Languages and Tools
-
 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -36,7 +35,8 @@ I'm an  full-stack developer and content creator building my version of the digi
 
 ### 📺 Latest YouTube Videos
 
-
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/emmannweb?sub_confirmation=1)
 
@@ -49,7 +49,6 @@ I'm an  full-stack developer and content creator building my version of the digi
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=emmannweb&theme=gruvbox&border_radius=4.5) -->
 
 #
-
 
 [website]: webtechbloginc.com
 [youtube]: https://youtube.com/emmannweb
