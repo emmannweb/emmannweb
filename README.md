@@ -5,9 +5,9 @@
 I'm an full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[@emmannweb][youtube]" that has about 3000 subscribers.
 
    <p align="left">
-      <a href="https://www.youtube.com/c/@emmannweb?sub_confirmation=1">
+      <a href="https://www.youtube.com/@emmannweb?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCwh7ee4f3OlHw7WhceG1q_Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/@emmannweb">
+      <a href="https://www.youtube.com/@emmannweb?sub_confirmation=1">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCwh7ee4f3OlHw7WhceG1q_Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/emmannweb?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/emmannweb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -86,7 +86,7 @@ I'm an full-stack developer and content creator building my version of the digit
 [![Next.js 14.1.3  Full Stack 2024  |  Create A Fullstack Blog With Next.js 14.1.3 for Beginners](https://ytcards.demolab.com/?id=959U-B2LlK4&title=Next.js+14.1.3++Full+Stack+2024++%7C++Create+A+Fullstack+Blog+With+Next.js+14.1.3+for+Beginners&lang=en&timestamp=1710772305&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Next.js 14.1.3  Full Stack 2024  |  Create A Fullstack Blog With Next.js 14.1.3 for Beginners")](https://www.youtube.com/watch?v=959U-B2LlK4)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/emmannweb?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@emmannweb?sub_confirmation=1)
 
 #
 
