@@ -62,7 +62,6 @@ I'm an full-stack developer and content creator building my version of the digit
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code></td>
 		</tr>
 		<tr>
-			
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
 			<td><code><img width="50" src="https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b" alt="Digital Ocean" title="Digital Ocean"/></code></td>
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
@@ -77,12 +76,14 @@ I'm an full-stack developer and content creator building my version of the digit
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Wordpress -  Reducing Wordpress docker image vulnerabilities](https://ytcards.demolab.com/?id=fS6BzC0A_MA&title=Wordpress+-++Reducing+Wordpress+docker+image+vulnerabilities&lang=en&timestamp=1727121002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Wordpress -  Reducing Wordpress docker image vulnerabilities")](https://www.youtube.com/watch?v=fS6BzC0A_MA)
 [![Deploy a Full Stack App - Learn how to deploy a MERN stack application in 10 minutes - Render](https://ytcards.demolab.com/?id=OYHuTllEoEI&title=Deploy+a+Full+Stack+App+-+Learn+how+to+deploy+a+MERN+stack+application+in+10+minutes+-+Render&lang=en&timestamp=1724959657&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Deploy a Full Stack App - Learn how to deploy a MERN stack application in 10 minutes - Render")](https://www.youtube.com/watch?v=OYHuTllEoEI)
 [![Build a complete REST API With Node, Express, TypeScript,  MongoDB, Authentication & Nodemailer](https://ytcards.demolab.com/?id=3-nz10akg5w&title=Build+a+complete+REST+API+With+Node%2C+Express%2C+TypeScript%2C++MongoDB%2C+Authentication+%26+Nodemailer&lang=en&timestamp=1721859443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Build a complete REST API With Node, Express, TypeScript,  MongoDB, Authentication & Nodemailer")](https://www.youtube.com/watch?v=3-nz10akg5w)
 [![Fullstack/ MERN Stack / Task management software  / Nodejs, Typescript, React, Mongodb](https://ytcards.demolab.com/?id=E_tP-Piwyqc&title=Fullstack%2F+MERN+Stack+%2F+Task+management+software++%2F+Nodejs%2C+Typescript%2C+React%2C+Mongodb&lang=en&timestamp=1720792267&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fullstack/ MERN Stack / Task management software  / Nodejs, Typescript, React, Mongodb")](https://www.youtube.com/watch?v=E_tP-Piwyqc)
 [![CI/CD with Docker, Nodejs Chainguard base image, Github Actions and build  smaller image size](https://ytcards.demolab.com/?id=UC3ZJx4-mwA&title=CI%2FCD+with+Docker%2C+Nodejs+Chainguard+base+image%2C+Github+Actions+and+build++smaller+image+size&lang=en&timestamp=1714401053&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CI/CD with Docker, Nodejs Chainguard base image, Github Actions and build  smaller image size")](https://www.youtube.com/watch?v=UC3ZJx4-mwA)
 [![Next.js 14.1.3  Full Stack 2024  |  Create A Fullstack Blog With Next.js 14.1.3 for Beginners](https://ytcards.demolab.com/?id=959U-B2LlK4&title=Next.js+14.1.3++Full+Stack+2024++%7C++Create+A+Fullstack+Blog+With+Next.js+14.1.3+for+Beginners&lang=en&timestamp=1710772305&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Next.js 14.1.3  Full Stack 2024  |  Create A Fullstack Blog With Next.js 14.1.3 for Beginners")](https://www.youtube.com/watch?v=959U-B2LlK4)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@emmannweb?sub_confirmation=1)
