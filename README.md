@@ -64,8 +64,12 @@ I'm a full-stack developer and content creator building my version of the digita
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
 			<td><code><img width="50" src="https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b" alt="Digital Ocean" title="Digital Ocean"/></code></td>
+			<td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET"/></code></td>
+			<td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#"/></code></td>
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code></td>
+			<td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/></code></td>
+			<td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" title="DBeaver"/></code></td>
 		</tr>
 	</table>
 </div>
@@ -76,12 +80,14 @@ I'm a full-stack developer and content creator building my version of the digita
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Microservices tutorial - Highly scalable ticket system with Kubernetes, Docker & Rabbitmq Cluster](https://ytcards.demolab.com/?id=Xm9dnk5akws&title=Microservices+tutorial+-+Highly+scalable+ticket+system+with+Kubernetes%2C+Docker+%26+Rabbitmq+Cluster&lang=en&timestamp=1746718732&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Microservices tutorial - Highly scalable ticket system with Kubernetes, Docker & Rabbitmq Cluster")](https://www.youtube.com/watch?v=Xm9dnk5akws)
 [![React admin dashboard - Material UI  & Typescript](https://ytcards.demolab.com/?id=bJOLIOAPTsI&title=React+admin+dashboard+-+Material+UI++%26+Typescript&lang=en&timestamp=1734637492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "React admin dashboard - Material UI  & Typescript")](https://www.youtube.com/watch?v=bJOLIOAPTsI)
 [![Don't Regret Not Learning TYPESCRIPT for Your React Apps - typescript tutorial](https://ytcards.demolab.com/?id=eM5f621Fk70&title=Don%27t+Regret+Not+Learning+TYPESCRIPT+for+Your+React+Apps+-+typescript+tutorial&lang=en&timestamp=1733403741&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Don't Regret Not Learning TYPESCRIPT for Your React Apps - typescript tutorial")](https://www.youtube.com/watch?v=eM5f621Fk70)
 [![when to create custom hooks react](https://ytcards.demolab.com/?id=Kcsys8xUAyA&title=when+to+create+custom+hooks+react&lang=en&timestamp=1731435179&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "when to create custom hooks react")](https://www.youtube.com/watch?v=Kcsys8xUAyA)
 [![Docker tutorial for beginners -  Reducing Wordpress docker image vulnerabilities](https://ytcards.demolab.com/?id=fS6BzC0A_MA&title=Docker+tutorial+for+beginners+-++Reducing+Wordpress+docker+image+vulnerabilities&lang=en&timestamp=1727121002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Docker tutorial for beginners -  Reducing Wordpress docker image vulnerabilities")](https://www.youtube.com/watch?v=fS6BzC0A_MA)
 [![Deploying to Render - MERN stack application in 10 minutes](https://ytcards.demolab.com/?id=OYHuTllEoEI&title=Deploying+to+Render+-+MERN+stack+application+in+10+minutes&lang=en&timestamp=1724959657&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Deploying to Render - MERN stack application in 10 minutes")](https://www.youtube.com/watch?v=OYHuTllEoEI)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@emmannweb?sub_confirmation=1)
