@@ -2,10 +2,10 @@ name: GitHub Readme YouTube Cards
 
 on:
   schedule:
-  # Runs every hour, on the hour
-  - cron: "0 * * * *"
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
   workflow_dispatch:
-  
+
 jobs:
   build:
     runs-on: ubuntu-24.04
@@ -15,7 +15,7 @@ jobs:
       
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
 
       # 1. Run the YouTube cards action
       - uses: DenverCoder1/github-readme-youtube-cards@main
@@ -40,9 +40,12 @@ jobs:
           data = json.loads(req.read().decode("utf-8"))
           stats = data["items"][0]["statistics"]
           
-          # Format numbers with commas (e.g., 1,234)
-          subs = f"{int(stats[\"subscriberCount\"]):,}"
-          views = f"{int(stats[\"viewCount\"]):,}"
+          # Extract counts safely without backslashes inside f-string expressions
+          sub_count = int(stats["subscriberCount"])
+          view_count = int(stats["viewCount"])
+
+          subs = f"{sub_count:,}"
+          views = f"{view_count:,}"
 
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
