@@ -6,10 +6,10 @@ I'm a full-stack developer and content creator building my version of the digita
 
    <p align="left">
 	<a href="https://www.youtube.com/@emmannweb?sub_confirmation=1">
-	  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/SUBSCRIBE-YOUTUBE_SUBS-%23E05D44?logo=youtube&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+	  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/SUBSCRIBE-3,070-%23E05D44?logo=youtube&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
 	</a>
 	<a href="https://www.youtube.com/@emmannweb?sub_confirmation=1">
-	  <img alt="youtube views" title="YouTube views" src="https://img.shields.io/badge/VIEWS-YOUTUBE_VIEWS-%23E1AD0E?logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+	  <img alt="youtube views" title="YouTube views" src="https://img.shields.io/badge/VIEWS-460,360-%23E1AD0E?logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
 	</a>
       <a href="https://github.com/emmannweb?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/emmannweb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
