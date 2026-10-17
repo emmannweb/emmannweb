@@ -2,14 +2,12 @@ name: GitHub Readme YouTube Cards
 
 on:
   schedule:
-    # Runs every hour, on the hour
     - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-24.04
-    # Allow the job to commit to the repository
     permissions:
       contents: write
       
@@ -40,7 +38,6 @@ jobs:
           data = json.loads(req.read().decode("utf-8"))
           stats = data["items"][0]["statistics"]
           
-          # Extract counts safely without backslashes inside f-string expressions
           sub_count = int(stats["subscriberCount"])
           view_count = int(stats["viewCount"])
 
@@ -50,9 +47,9 @@ jobs:
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
 
-          # Replace placeholders with live stats
-          content = re.sub(r"SUBSCRIBERS_PLACEHOLDER", subs, content)
-          content = re.sub(r"VIEWS_PLACEHOLDER", views, content)
+          # Replace the short tags with real stats
+          content = content.replace("YOUTUBE_SUBS", subs)
+          content = content.replace("YOUTUBE_VIEWS", views)
 
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(content)
