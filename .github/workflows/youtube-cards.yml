@@ -16,3 +16,4 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCwh7ee4f3OlHw7WhceG1q_Q
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
