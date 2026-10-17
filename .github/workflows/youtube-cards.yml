@@ -1,19 +1,62 @@
 name: GitHub Readme YouTube Cards
-on:
-  schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
-  workflow_dispatch:
 
+on:
+  # Runs every hour, on the hour
+  - cron: "0 * * * *"
+  workflow_dispatch:
+  
 jobs:
   build:
-    runs-on: ubuntu-24.04 #ubuntu-latest
+    runs-on: ubuntu-24.04
     # Allow the job to commit to the repository
     permissions:
       contents: write
-    # Run the GitHub Readme YouTube Cards action
+      
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 1. Run the YouTube cards action
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCwh7ee4f3OlHw7WhceG1q_Q
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+
+      # 2. Python script to fetch live stats and update the README placeholders
+      - name: Update YouTube Stats Badges
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          CHANNEL_ID: UCwh7ee4f3OlHw7WhceG1q_Q
+        run: |
+          python -c '
+          import os, urllib.request, json, re
+
+          api_key = os.environ["YOUTUBE_API_KEY"]
+          channel_id = os.environ["CHANNEL_ID"]
+          url = f"https://www.googleapis.com/youtube/v3/channels?part=statistics&id={channel_id}&key={api_key}"
+
+          req = urllib.request.urlopen(url)
+          data = json.loads(req.read().decode("utf-8"))
+          stats = data["items"][0]["statistics"]
+          
+          # Format numbers with commas (e.g., 1,234)
+          subs = f"{int(stats[\"subscriberCount\"]):,}"
+          views = f"{int(stats[\"viewCount\"]):,}"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          # Replace placeholders with live stats
+          content = re.sub(r"SUBSCRIBERS_PLACEHOLDER", subs, content)
+          content = re.sub(r"VIEWS_PLACEHOLDER", views, content)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          '
+
+      # 3. Commit updated README back to your repository
+      - name: Commit updated README
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update YouTube subscriber and view count badges"
+          file_pattern: README.md
